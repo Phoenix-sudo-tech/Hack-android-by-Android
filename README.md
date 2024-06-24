@@ -13,4 +13,4 @@ Learn how Hackes hack your phone, so don't install any unknown applications .
 9. then type ls and type --- cd  Hack-android-by-Android to enter the folder. Now run the third bash file , type : ./Metasploit_Phoenix#3
 10. it will install all the necessary files again then it will automatically start metasploit framework in your terminal.
 11. When the metasploit is successfully opened , we have to make a payload or an app that will hack your victim's device.
-12. 
+12. use this commands to make a payload:-
