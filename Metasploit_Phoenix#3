@@ -1,0 +1,22 @@
+termux-setup-storage
+apt install curl
+apt install openssl
+apt install git 
+apt install wget -y
+apt install toilet
+toilet shadow
+apt install man
+apt install apache2 -y
+apt install ruby php -y
+apt install nano
+apt install nmap
+apt install sl
+sl
+apt install cmatrix
+cmatrix
+apt install cowsay 
+cowsay Phoenix
+Login in ubuntu then :
+apt update 
+apt upgrade 
+msfconsole
